@@ -1,0 +1,5 @@
+pants/
+
+fish/fishd.*
+fish/fish_history
+fish/local.fish
